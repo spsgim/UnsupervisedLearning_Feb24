@@ -1,0 +1,27 @@
+
+
+Below  are important Links
+#################################################################################################
+
+All Code : https://colab.research.google.com/drive/1xqQz3OLUUXxkgiMNszENNAyNwcObWu3D?usp=sharing
+
+##################################################################################################
+
+
+################################ Anomoly Detection Colab ############################################
+
+https://drive.google.com/drive/u/1/folders/1X8qn1TvKXPrQABKZCdAZFlqha3Z-cIUn
+
+###########################################################################################################
+
+Visualisation :  https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+##########################################################################################################
+
+Michigan Clustering PDF : https://cs.wmich.edu/alfuqaha/summer14/cs6530/lectures/ClusteringAnalysis.pdf
+###########################################################################################################
+
+
+
+Gaussian Visuaolisation : http://socr.ucla.edu/htmls/HTML5/BivariateNormal/
+https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
